@@ -1,0 +1,27 @@
+{
+  "player": {
+    "id": "62746d1d-cc42-4ec7-b030-4a65595c1b30",
+    "name": "Luzz",
+    "className": "Warrior",
+    "level": 1,
+    "experience": 0,
+    "gold": 0,
+    "stats": {
+      "hp": 100,
+      "mp": 50,
+      "str": 15,
+      "dex": 10,
+      "int": 5
+    },
+    "inventory": [],
+    "equipment": {
+      "weapon": null,
+      "armor": null,
+      "accessory": null
+    }
+  },
+  "timeSystem": {
+    "currentPhaseIndex": 1
+  },
+  "timestamp": "2024-10-30T14:39:31.337Z"
+}
